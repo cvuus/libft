@@ -1,11 +1,12 @@
-libft
-Usage
+# libft
 
-make without bonus functions.
+## Description
+"Crate your very first own library" is the task of the first project you nned to complete.
+Libft consists of a static library with standard C functions  which compile with a Makefile.
+The library will be used for all further projects.
 
-make bonus to compile with bonuses.
+## Usage
 
-Tests
+make without bonus functions
 
-Exec ./test.sh and ./test_bonus.sh if you want.
-Those tests don't test everything but not the same things as war machine.
+make bonus to compile with bonuses
